@@ -1,1 +1,1 @@
-# bermain-dengan-warna
+bermain menggunakan random warna dengan DOM
