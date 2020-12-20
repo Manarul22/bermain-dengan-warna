@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.kotak {
+    width: 40px;
+    height: 40px;
+    margin: 10px auto;
+}
+
+.merah {
+    background-color: red;
+}
+
+.hijau {
+    background-color: green;
+}
+
+.biru {
+    background-color: blue;
+}
